@@ -982,7 +982,7 @@
         }
       ],
       "KeyCodes": [
-        66
+        90
       ],
       "Text": "z",
       "TextPosition": {
@@ -990,7 +990,7 @@
         "Y": 253
       },
       "ChangeOnCaps": true,
-      "ShiftText": "Bab"
+      "ShiftText": "Z"
     },
     {
       "__type": "KeyboardKey",
@@ -1014,7 +1014,7 @@
         }
       ],
       "KeyCodes": [
-        67
+        68
       ],
       "Text": "d",
       "TextPosition": {
@@ -1022,7 +1022,7 @@
         "Y": 253
       },
       "ChangeOnCaps": true,
-      "ShiftText": "C"
+      "ShiftText": "D"
     },
     {
       "__type": "KeyboardKey",
@@ -1142,7 +1142,7 @@
         }
       ],
       "KeyCodes": [
-        68
+        71
       ],
       "Text": "g",
       "TextPosition": {
@@ -1150,7 +1150,7 @@
         "Y": 209
       },
       "ChangeOnCaps": true,
-      "ShiftText": "D"
+      "ShiftText": "G"
     },
     {
       "__type": "KeyboardKey",
@@ -1174,7 +1174,7 @@
         }
       ],
       "KeyCodes": [
-        72
+        77
       ],
       "Text": "m",
       "TextPosition": {
@@ -1182,7 +1182,7 @@
         "Y": 209
       },
       "ChangeOnCaps": true,
-      "ShiftText": "H"
+      "ShiftText": "M"
     },
     {
       "__type": "KeyboardKey",
@@ -1334,7 +1334,7 @@
         }
       ],
       "KeyCodes": [
-        77
+        72
       ],
       "Text": "h",
       "TextPosition": {
@@ -1342,7 +1342,7 @@
         "Y": 253
       },
       "ChangeOnCaps": true,
-      "ShiftText": "M"
+      "ShiftText": "H"
     },
     {
       "__type": "KeyboardKey",
@@ -1558,7 +1558,7 @@
         }
       ],
       "KeyCodes": [
-        71
+        66
       ],
       "Text": "b",
       "TextPosition": {
@@ -1566,7 +1566,7 @@
         "Y": 165
       },
       "ChangeOnCaps": true,
-      "ShiftText": "G"
+      "ShiftText": "B"
     },
     {
       "__type": "KeyboardKey",
@@ -1686,7 +1686,7 @@
         }
       ],
       "KeyCodes": [
-        88
+        67
       ],
       "Text": "c",
       "TextPosition": {
@@ -1694,7 +1694,7 @@
         "Y": 253
       },
       "ChangeOnCaps": true,
-      "ShiftText": "X"
+      "ShiftText": "C"
     },
     {
       "__type": "KeyboardKey",
@@ -1750,7 +1750,7 @@
         }
       ],
       "KeyCodes": [
-        90
+        88
       ],
       "Text": "x",
       "TextPosition": {
@@ -1758,7 +1758,7 @@
         "Y": 253
       },
       "ChangeOnCaps": true,
-      "ShiftText": "Z"
+      "ShiftText": "X"
     },
     {
       "__type": "KeyboardKey",
